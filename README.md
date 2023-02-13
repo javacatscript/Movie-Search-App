@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Built using React v18.2. Feel free to visit: https://lets-search-movie.netlify.app/
 
 ## Available Scripts
